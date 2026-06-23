@@ -1,6 +1,6 @@
 # excel-sales-dashboard
 
-                          # Dynamic Excel Sales Dashboard using VBA and Macros #
+# Dynamic Excel Sales Dashboard using VBA and Macros 
 
 ## Project Overview
 This project is an interactive sales dashboard developed using Microsoft Excel, VBA, and Macros. The dashboard analyzes sales executive performance, target achievement, and regional sales insights with automated dashboard navigation features.
